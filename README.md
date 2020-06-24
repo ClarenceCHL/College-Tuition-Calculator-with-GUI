@@ -1,0 +1,2 @@
+# College-Tuition-Calculator-with-GUI
+The goal of this project is to have a program, which runs on the Graphical User Interface, that enrolls college students into the system and calculates the tuition amount due for students of different types. There are three types of college students; instate, outstate, and international. For more detailed information on this project, please see README.md. I hope you enjoy my code and feel free to use them.
